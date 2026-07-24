@@ -212,7 +212,7 @@ export function ContactForm() {
       )}
 
       <p className="font-body text-stone-gray/40 text-xs leading-relaxed">
-        By submitting this form you agree to be contacted by Veritas Capital
+        By submitting this form you agree to be contacted by Vardian Capital
         Partners. Your information will not be shared with third parties.
       </p>
     </form>

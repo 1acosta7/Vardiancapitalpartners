@@ -12,11 +12,11 @@ import Footer from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "Veritas Capital Partners — Truth. Protection. Wealth.",
-    template: "%s | Veritas Capital Partners",
+    default: "Vardian Capital Partners — Truth. Protection. Wealth.",
+    template: "%s | Vardian Capital Partners",
   },
   description:
-    "Veritas Capital Partners is a premium wealth strategy and legacy planning platform committed to protecting what matters and building what lasts.",
+    "Vardian Capital Partners is a premium wealth strategy and legacy planning platform committed to protecting what matters and building what lasts.",
   keywords: [
     "wealth management",
     "legacy planning",
@@ -28,14 +28,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "Veritas Capital Partners",
-    title: "Veritas Capital Partners — Truth. Protection. Wealth.",
+    siteName: "Vardian Capital Partners",
+    title: "Vardian Capital Partners — Truth. Protection. Wealth.",
     description:
       "A premium wealth strategy and legacy planning platform for families who think in generations.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Veritas Capital Partners",
+    title: "Vardian Capital Partners",
     description:
       "Protect What Matters. Build What Lasts. Premium wealth strategy and legacy planning.",
   },

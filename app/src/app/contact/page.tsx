@@ -5,7 +5,7 @@ import { ContactForm } from "./ContactForm";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Schedule a conversation with Veritas Capital Partners. We offer a complimentary introductory consultation for families serious about wealth strategy and legacy planning.",
+    "Schedule a conversation with Vardian Capital Partners. We offer a complimentary introductory consultation for families serious about wealth strategy and legacy planning.",
 };
 
 const contactDetails = [
@@ -40,7 +40,7 @@ export default function ContactPage() {
           </h1>
           <p className="font-body text-stone-gray text-lg leading-relaxed max-w-xl">
             We offer a complimentary introductory consultation to understand
-            your situation and determine whether Veritas is the right fit for
+            your situation and determine whether Vardian is the right fit for
             your family. No obligation — only an honest conversation.
           </p>
         </Container>
@@ -128,7 +128,7 @@ export default function ContactPage() {
               Disclaimer:{" "}
             </span>
             The information provided through this website and any communications
-            with Veritas Capital Partners is for educational and informational
+            with Vardian Capital Partners is for educational and informational
             purposes only and does not constitute financial, legal, tax, or
             investment advice. Nothing herein should be construed as a
             solicitation or offer to buy or sell any security or financial

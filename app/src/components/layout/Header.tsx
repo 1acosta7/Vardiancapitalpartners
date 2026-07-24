@@ -41,7 +41,7 @@ export default function Header() {
     >
       <div className="mx-auto max-w-7xl w-full px-6 lg:px-12 flex items-center justify-between">
         {/* Logo */}
-        <Link href="/" aria-label="Veritas Capital Partners — Home">
+        <Link href="/" aria-label="Vardian Capital Partners — Home">
           <Logo variant="light" width={150} height={56} />
         </Link>
 

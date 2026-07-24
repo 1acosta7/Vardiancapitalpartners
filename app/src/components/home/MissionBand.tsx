@@ -19,7 +19,7 @@ export function MissionBand() {
         >
           <Quote
             text="True wealth is not measured by what you accumulate, but by what you protect, what you give, and what you leave behind for those who follow."
-            attribution="The Veritas Philosophy"
+            attribution="The Vardian Philosophy"
           />
         </motion.div>
       </Container>

@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/Button";
 export const metadata: Metadata = {
   title: "Education & Insights",
   description:
-    "Financial education, articles, and resources from Veritas Capital Partners. Knowledge is the most powerful wealth-building tool.",
+    "Financial education, articles, and resources from Vardian Capital Partners. Knowledge is the most powerful wealth-building tool.",
 };
 
 const articles = [
@@ -82,7 +82,7 @@ export default function EducationPage() {
                 Coming Soon
               </p>
               <p className="font-body text-stone-gray text-sm">
-                The Veritas podcast, YouTube channel, and resource library are
+                The Vardian podcast, YouTube channel, and resource library are
                 currently in development. Subscribe to be notified at launch.
               </p>
             </div>
@@ -144,7 +144,7 @@ export default function EducationPage() {
             More Than Advice — A Platform for Financial Truth
           </h2>
           <p className="font-body text-stone-gray leading-relaxed mb-4">
-            Veritas Education is our long-term vision for a full-scale financial
+            Vardian Education is our long-term vision for a full-scale financial
             media platform: articles, video content, a podcast, downloadable
             resources, and community-driven learning — all anchored in the same
             calm, educational, truth-first voice.

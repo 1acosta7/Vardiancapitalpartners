@@ -53,7 +53,7 @@ export function Hero() {
             transition={{ delay: 0.8, duration: 0.9 }}
             className="font-body text-stone-gray text-lg md:text-xl leading-relaxed max-w-2xl mb-12"
           >
-            Veritas Capital Partners is a premium wealth and legacy platform
+            Vardian Capital Partners is a premium wealth and legacy platform
             serving families who think in generations. We combine
             protection-first strategy, financial education, and faith-guided
             stewardship to help you build a legacy that outlasts you.

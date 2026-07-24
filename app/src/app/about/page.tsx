@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/Button";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Learn about Veritas Capital Partners — a husband-and-wife-led wealth and legacy platform built on truth, relationship, and generational thinking.",
+    "Learn about Vardian Capital Partners — a husband-and-wife-led wealth and legacy platform built on truth, relationship, and generational thinking.",
 };
 
 const values = [
@@ -32,12 +32,12 @@ const leaders = [
   {
     name: "Mathew Acosta",
     role: "Co-Founder · Licensed Life & Wealth Strategist",
-    bio: "Mathew leads Veritas's wealth protection and strategy practice. He specializes in life insurance structures that build generational wealth, tax-advantaged growth strategies, legacy and estate planning, and long-term family financial security. Mathew built Veritas on a conviction he holds deeply: that every family deserves protection-first wealth strategy — not a product pitch, not a one-size-fits-all plan, but real strategy rooted in their specific situation and goals.",
+    bio: "Mathew leads Vardian's wealth protection and strategy practice. He specializes in life insurance structures that build generational wealth, tax-advantaged growth strategies, legacy and estate planning, and long-term family financial security. Mathew built Vardian on a conviction he holds deeply: that every family deserves protection-first wealth strategy — not a product pitch, not a one-size-fits-all plan, but real strategy rooted in their specific situation and goals.",
   },
   {
     name: "Roxy Acosta",
     role: "Co-Founder · CMT Candidate & Market Educator",
-    bio: "Roxy leads Veritas's education and market intelligence practice. As a CMT Candidate, she brings institutional-level technical analysis and market education to everyday families — the same tools and frameworks used by professional traders, made accessible and actionable. Her mission is simple: financial confidence for families who have never been taught how money and markets actually work.",
+    bio: "Roxy leads Vardian's education and market intelligence practice. As a CMT Candidate, she brings institutional-level technical analysis and market education to everyday families — the same tools and frameworks used by professional traders, made accessible and actionable. Her mission is simple: financial confidence for families who have never been taught how money and markets actually work.",
   },
 ];
 
@@ -56,7 +56,7 @@ export default function AboutPage() {
             Guided by Stewardship.
           </h1>
           <p className="font-body text-stone-gray text-lg leading-relaxed max-w-2xl">
-            Veritas Capital Partners was founded with a single conviction: that
+            Vardian Capital Partners was founded with a single conviction: that
             the families who work hardest to build wealth deserve the same
             caliber of thoughtful, education-first guidance typically reserved
             for only the most affluent clients.
@@ -120,7 +120,7 @@ export default function AboutPage() {
       <section className="bg-obsidian py-28 lg:py-36">
         <Container size="md">
           <Quote
-            text="We built Veritas because we believe every family deserves a trusted partner who shows up not just with strategy, but with genuine care for what they are building."
+            text="We built Vardian because we believe every family deserves a trusted partner who shows up not just with strategy, but with genuine care for what they are building."
             attribution="The Founding Partners"
           />
         </Container>
@@ -137,7 +137,7 @@ export default function AboutPage() {
               Meet the Founding Partners
             </h2>
             <p className="font-body text-obsidian/65 leading-relaxed mt-4">
-              Veritas is a husband-and-wife-led firm. We bring complementary
+              Vardian is a husband-and-wife-led firm. We bring complementary
               perspectives and a shared mission to every client relationship.
             </p>
           </div>
@@ -147,7 +147,7 @@ export default function AboutPage() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src="/images/founders.png"
-              alt="The Founding Partners of Veritas Capital Partners"
+              alt="The Founding Partners of Vardian Capital Partners"
               className="w-full object-cover"
             />
 

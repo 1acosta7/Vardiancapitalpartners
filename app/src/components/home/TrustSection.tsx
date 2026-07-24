@@ -14,7 +14,7 @@ const pillars = [
   },
   {
     label: "Integrity-Driven",
-    text: "Veritas means truth. Our counsel is rooted in honesty, transparency, and genuine stewardship.",
+    text: "Our counsel is rooted in honesty, transparency, and genuine stewardship — always.",
   },
   {
     label: "Holistic Approach",
@@ -35,7 +35,7 @@ export function TrustSection() {
             transition={{ duration: 0.9 }}
           >
             <p className="font-sans text-[10px] tracking-[0.32em] uppercase text-bronze mb-5">
-              Why Veritas
+              Why Vardian
             </p>
             <h2 className="font-serif text-4xl md:text-5xl text-obsidian leading-tight mb-6">
               Built on Relationship.
@@ -43,7 +43,7 @@ export function TrustSection() {
               Guided by Truth.
             </h2>
             <p className="font-body text-obsidian/65 leading-relaxed mb-4">
-              Veritas Capital Partners was founded on a simple belief: that
+              Vardian Capital Partners was founded on a simple belief: that
               every family deserves access to the kind of thoughtful, holistic
               financial guidance that was once reserved only for the
               ultra-wealthy.

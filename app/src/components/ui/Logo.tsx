@@ -19,7 +19,7 @@ export function Logo({
     // eslint-disable-next-line @next/next/no-img-element
     <img
       src={src}
-      alt="Veritas Capital Partners"
+      alt="Vardian Capital Partners"
       width={width}
       height={height}
       className={cn("object-contain", className)}

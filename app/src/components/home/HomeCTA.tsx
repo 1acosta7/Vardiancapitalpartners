@@ -26,7 +26,7 @@ export function HomeCTA() {
           </h2>
           <p className="font-body text-alabaster/70 leading-relaxed mb-10">
             We offer a complimentary introductory consultation to understand
-            your situation and determine whether Veritas is the right fit for
+            your situation and determine whether Vardian is the right fit for
             your family. There is no obligation — only an honest conversation.
           </p>
           <Button href="/contact" variant="primary" size="lg">

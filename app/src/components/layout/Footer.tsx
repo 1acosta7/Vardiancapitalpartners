@@ -70,7 +70,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 flex flex-col md:flex-row justify-between gap-5">
           <p className="text-xs font-body text-stone-gray/30">
-            © {year} Veritas Capital Partners. All rights reserved.
+            © {year} Vardian Capital Partners. All rights reserved.
           </p>
           <p className="text-xs font-body text-stone-gray/30 md:max-w-lg md:text-right leading-relaxed">
             <span className="text-stone-gray/50 font-sans uppercase tracking-wider text-[9px]">

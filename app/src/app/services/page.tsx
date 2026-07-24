@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/Button";
 export const metadata: Metadata = {
   title: "Services",
   description:
-    "Explore the Veritas Capital Partners approach to wealth strategy, protection, legacy planning, and financial education.",
+    "Explore the Vardian Capital Partners approach to wealth strategy, protection, legacy planning, and financial education.",
 };
 
 const services = [
@@ -166,7 +166,7 @@ export default function ServicesPage() {
                 Strategy Before Product.
               </h2>
               <p className="font-body text-obsidian/65 leading-relaxed mb-4">
-                Every client engagement at Veritas begins with a deep discovery
+                Every client engagement at Vardian begins with a deep discovery
                 process. We ask questions that most advisors don&rsquo;t —
                 about your family, your values, your fears, and your vision.
                 Only then do we begin to build strategy.
