@@ -13,7 +13,7 @@ export function Logo({
   width = 180,
   height = 72,
 }: LogoProps) {
-  const src = variant === "light" ? "/logo-light.png?v=2" : "/logo-dark.png?v=2";
+  const src = variant === "light" ? "/logo-vardian.png" : "/logo-dark.png";
 
   return (
     // eslint-disable-next-line @next/next/no-img-element
