@@ -32,12 +32,21 @@ export const metadata: Metadata = {
     title: "Vardian Capital Partners — Truth. Protection. Wealth.",
     description:
       "A premium wealth strategy and legacy planning platform for families who think in generations.",
+    images: [
+      {
+        url: "https://vardiancapitalpartners.com/logo-vardian.png",
+        width: 1536,
+        height: 1024,
+        alt: "Vardian Capital Partners",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Vardian Capital Partners",
     description:
       "Protect What Matters. Build What Lasts. Premium wealth strategy and legacy planning.",
+    images: ["https://vardiancapitalpartners.com/logo-vardian.png"],
   },
 };
 
