@@ -69,7 +69,7 @@ export function ContactForm() {
     setSubmitting(true);
     setSubmitError(false);
     try {
-      const res = await fetch("https://formspree.io/f/mjgznewo", {
+      const res = await fetch("https://formspree.io/f/xeeyvkrr", {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },
         body: JSON.stringify(form),
