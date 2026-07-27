@@ -1,4 +1,4 @@
-# Veritas Capital Partners — Marketing Website
+# Vardian Capital Partners — Marketing Website
 
 Next.js 16 · Tailwind v4 · Framer Motion · TypeScript
 
