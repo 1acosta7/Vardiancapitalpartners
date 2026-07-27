@@ -34,7 +34,7 @@ export const metadata: Metadata = {
       "A premium wealth strategy and legacy planning platform for families who think in generations.",
     images: [
       {
-        url: "https://vardiancapitalpartners.com/logo-vardian.png",
+        url: "https://vardiancapitalpartners.com/og-image.png",
         width: 1536,
         height: 1024,
         alt: "Vardian Capital Partners",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title: "Vardian Capital Partners",
     description:
       "Protect What Matters. Build What Lasts. Premium wealth strategy and legacy planning.",
-    images: ["https://vardiancapitalpartners.com/logo-vardian.png"],
+    images: ["https://vardiancapitalpartners.com/og-image.png"],
   },
 };
 
