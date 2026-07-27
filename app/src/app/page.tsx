@@ -6,9 +6,10 @@ import { TrustSection } from "@/components/home/TrustSection";
 import { HomeCTA } from "@/components/home/HomeCTA";
 
 export const metadata: Metadata = {
-  title: "Vardian Capital Partners — Truth. Protection. Wealth.",
+  title: "Vardian Capital Partners — Wealth Strategy & Legacy Planning | Manhattan Beach, CA",
   description:
-    "A premium wealth strategy and legacy planning platform for families who think in generations. Protect what matters. Build what lasts.",
+    "Vardian Capital Partners helps families in Manhattan Beach and beyond protect their wealth, plan their legacy, and build lasting financial security. Education-first. Truth-driven.",
+  alternates: { canonical: "https://vardiancapitalpartners.com" },
 };
 
 export default function HomePage() {

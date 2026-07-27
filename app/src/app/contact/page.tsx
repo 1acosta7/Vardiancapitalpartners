@@ -3,9 +3,10 @@ import { Container } from "@/components/ui/Container";
 import { ContactForm } from "./ContactForm";
 
 export const metadata: Metadata = {
-  title: "Contact",
+  title: "Contact — Schedule a Free Consultation | Manhattan Beach, CA",
   description:
-    "Schedule a conversation with Vardian Capital Partners. We offer a complimentary introductory consultation for families serious about wealth strategy and legacy planning.",
+    "Schedule a complimentary consultation with Vardian Capital Partners in Manhattan Beach, CA. Talk with Mathew and Roxy Acosta about your family's wealth strategy, legacy plan, and financial future. No obligation.",
+  alternates: { canonical: "https://vardiancapitalpartners.com/contact" },
 };
 
 const contactDetails = [

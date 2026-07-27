@@ -4,9 +4,10 @@ import { Quote } from "@/components/ui/Quote";
 import { Button } from "@/components/ui/Button";
 
 export const metadata: Metadata = {
-  title: "About",
+  title: "About Us — Mathew & Roxy Acosta | Vardian Capital Partners",
   description:
-    "Learn about Vardian Capital Partners — a husband-and-wife-led wealth and legacy platform built on truth, relationship, and generational thinking.",
+    "Meet the founders of Vardian Capital Partners — Mathew Acosta, Licensed Life & Wealth Strategist, and Roxy Acosta, CMT Candidate & Market Educator. A husband-and-wife firm built on truth, stewardship, and generational thinking. Manhattan Beach, CA.",
+  alternates: { canonical: "https://vardiancapitalpartners.com/about" },
 };
 
 const values = [

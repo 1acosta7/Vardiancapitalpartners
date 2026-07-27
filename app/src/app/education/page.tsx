@@ -3,9 +3,10 @@ import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 
 export const metadata: Metadata = {
-  title: "Education & Insights",
+  title: "Financial Education & Insights — Wealth, Legacy & Market Strategy",
   description:
-    "Financial education, articles, and resources from Vardian Capital Partners. Knowledge is the most powerful wealth-building tool.",
+    "Free financial education from Vardian Capital Partners — articles on wealth strategy, legacy planning, life insurance, technical analysis, and family stewardship. Knowledge is the most powerful wealth-building tool.",
+  alternates: { canonical: "https://vardiancapitalpartners.com/education" },
 };
 
 const articles = [

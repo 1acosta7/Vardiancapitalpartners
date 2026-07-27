@@ -3,9 +3,10 @@ import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 
 export const metadata: Metadata = {
-  title: "Services",
+  title: "Services — Life Insurance, Legacy Planning & Wealth Strategy",
   description:
-    "Explore the Vardian Capital Partners approach to wealth strategy, protection, legacy planning, and financial education.",
+    "Vardian Capital Partners offers life insurance wealth building, tax-advantaged growth, legacy and estate planning, technical market education, and faith-guided financial strategy for families in Manhattan Beach, CA and beyond.",
+  alternates: { canonical: "https://vardiancapitalpartners.com/services" },
 };
 
 const services = [
